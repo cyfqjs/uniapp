@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title mt--10">{{title}}</text></view><view class="mt--99 mr--99 ml--99 mb--99">demo</view><button data-event-opts="{{[['tap',[['handlerRequest']]]]}}" bindtap="__e">点击进行请求</button></view>
